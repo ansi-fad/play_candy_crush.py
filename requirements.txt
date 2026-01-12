@@ -1,0 +1,2 @@
+# niciuna externală necesară; pui aici pachete opționale (ex: pytest)
+pytest>=7.0
